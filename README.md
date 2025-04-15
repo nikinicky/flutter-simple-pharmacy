@@ -1,16 +1,28 @@
-# simple_pharmacy
+# flutter-simple-pharmacy
 
-A new Flutter project.
+> This repository was created to complete an assignment for my *Mobile Development* subject.
 
-## Getting Started
+This is a simple Flutter app created as part of my assignment before the mid test.
 
-This project is a starting point for a Flutter application.
+---
 
-A few resources to get you started if this is your first Flutter project:
+## Here are some screenshots of the app in action:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<table>
+  <tr>
+    <td><b>Home</b></td>
+    <td><b>Dashboard</b></td>
+  </tr>
+  <tr>
+    <td><img src="https://drive.google.com/uc?export=view&id=1DxJDzRGcwmZp-VGOv90mndXog9dDzTe8" alt="home" width="320"></td>
+    <td><img src="https://drive.google.com/uc?export=view&id=15A4ZWq49rpu8R5zhXuLwHwpQ4amyvdYu" alt="dashboard" width="320"></td>
+  </tr>
+  <tr>
+    <td><b>Medicine List</b></td>
+    <td><b>Unavailable Page</b></td>
+  </tr>
+  <tr>
+    <td><img src="https://drive.google.com/uc?export=view&id=1xDMuS53iPJhbxgQ-jBYyj9yTdU2W9ylH" alt="medicine list" width="320"></td>
+    <td><img src="https://drive.google.com/uc?export=view&id=1KoE_TtmXQ9eYvZodQ-Y71EHwBmuo5qAh" alt="unavailable page" width="320"></td>
+  </tr>
+</table>
